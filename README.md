@@ -30,3 +30,11 @@ Here is a bullet list
    I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!  
     [1]: http://www.r-bloggers.com/   "R bloggers"  
     [2]: http://simplystatistics.org/ "Simply Statistics"  
+
+###New Lines
+Newlines require a double space after the end of a line.
+First line  Second line
+
+##More Markdown Resources
+[Official Markdown Documentation](https://daringfireball.net/projects/markdown/)
+[Github's Markdown Guide](https://help.github.com/articles/github-flavored-markdown)
