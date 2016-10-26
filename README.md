@@ -32,9 +32,10 @@ Here is a bullet list
     [2]: http://simplystatistics.org/ "Simply Statistics"  
 
 ###New Lines
-Newlines require a double space after the end of a line.
-First line  Second line
+Newlines require a double space after the end of a line.  
+First line  
+Second line
 
 ##More Markdown Resources
-[Official Markdown Documentation](https://daringfireball.net/projects/markdown/)
+[Official Markdown Documentation](https://daringfireball.net/projects/markdown/)  
 [Github's Markdown Guide](https://help.github.com/articles/github-flavored-markdown)
