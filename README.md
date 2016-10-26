@@ -2,8 +2,8 @@
 ##Intro
 Hi there, I'm new to github and git. This is my first repository. I'm just fooling around to see if I can get to grips with all this. 
 I have no idea what to write about now.
-*italics are written within stars*
-**for bold use two stars**
+*Italics are written within stars*.
+**For bold use two stars**.
 
 ##Another Secondary Heading
 blah blab blaaaa blah
@@ -21,8 +21,8 @@ Here is a bullet list
 3. third item
 
 ###Links
-[Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)
-[Download R](http://www.r-project.org/)
+[Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)  
+[Download R](http://www.r-project.org/)  
 [RStudio](http://www.rstudio.com/)
 
 ###Advanced Links
