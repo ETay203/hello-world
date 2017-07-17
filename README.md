@@ -1,41 +1,41 @@
 # hello-world
-##Intro
+## Intro
 Hi there, I'm new to github and git. This is my first repository. I'm just fooling around to see if I can get to grips with all this. 
 I have no idea what to write about now. How about some Markdown basics. 
 *Italics are written within stars*.
 **For bold use two stars**.
 
-##Another Secondary Heading
+## Another Secondary Heading
 blah blab blaaaa blah
-###A list
+### A list
 Here is a bullet list
 * item 1
 * item 2
 * item 3
 * etc
 
-###An Ordered List
+### An Ordered List
 1. first item
 2. second item
 4. forth item (doesn't have to come in order!)
 3. third item
 
-###Links
+### Links
 [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)  
 [Download R](http://www.r-project.org/)  
 [RStudio](http://www.rstudio.com/)
 
-###Advanced Links
+### Advanced Links
 
    I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!  
     [1]: http://www.r-bloggers.com/   "R bloggers"  
     [2]: http://simplystatistics.org/ "Simply Statistics"  
 
-###New Lines
+### New Lines
 Newlines require a double space after the end of a line.  
 First line  
 Second line
 
-##More Markdown Resources
+## More Markdown Resources
 [Official Markdown Documentation](https://daringfireball.net/projects/markdown/)  
 [Github's Markdown Guide](https://help.github.com/articles/github-flavored-markdown)
